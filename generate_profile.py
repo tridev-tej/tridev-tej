@@ -8,12 +8,12 @@ ART = """\
           +*####%%&&&&@@@&%&&@@@@&%&%%%#+
          *#%&&&%&&@@&&&@@@@@&@@@@@&&@&@&*=
         +%%&%&&@@@@%***##&@@@@@@@@@@@@@@%+
-        +#&&&&&@@&#*+~~=+=++==*&&&@@@@@@%
-         **&&@@@@+++**##+==+*##**+&@@@@&+
-           #&@@@#=+*#%%#*==*%%%##++@&%@#
-            *#+**~=~==+==-~=+++=~~=#+**
-             ===+~---~==~-~~===~~~~++=
-              ~~+~~~+#++%%#%%**#+==++~
+        +#&&&&&@@&*=~--~~~==~~+%%%@@@@@@%
+         **&&@@@@~-***##*::~+#####&@@@@&+
+           #&@@@#.-#&@@&%::=#@@&&%~&&%@#
+            *#+**.:=####+..:~####*.++**
+             ===+.....-:...::::....-+=
+              ~~+~~~+#*+%%%%%**#+==++~
                -+===#&%*+===++%&*****
                 ##**+*=~~~=====##%%&#
                  %&&&%*=+*###**%&&@%
@@ -53,7 +53,6 @@ def header(name):
 INFO = [
     header("tejesh@tridev-tej"),
     kv("OS:", ("macOS, Ubuntu", C_VAL)),
-    kv("Uptime:", ("25 years, 10 months, 4 days", C_VAL)),
     kv("Host:", ("Lumian.ai", C_VAL)),
     kv("Kernel:", ("Senior AI Engineer", C_VAL)),
     kv("IDE:", ("VS Code, Claude Code", C_VAL)),
@@ -62,13 +61,12 @@ INFO = [
     kv("Languages.Programming:", ("Python, C++, TypeScript, SQL", C_VAL)),
     kv("Languages.Computer:", ("HTML, CSS, JSON, LaTeX, YAML", C_VAL)),
     kv("Languages.Real:", ("English, Hindi", C_VAL)),
-    kv("Education:", ("IIT Kanpur, B.Tech CSE '23", C_VAL)),
+    kv("Education:", ("IIT Kanpur, B.Tech CSE", C_VAL)),
     kv("History:", ("Simbian, Abacus.AI, TI", C_VAL)),
     kv("Hobbies.Software:", ("AI Agents, Comp. Programming", C_VAL)),
     [],
     header("- Contact"),
     kv("Email.Work:", ("tejesh@lumian.ai", C_VAL)),
-    kv("Email.Personal:", ("t@tejeshvaish.com", C_VAL)),
     kv("LinkedIn:", ("tejeshvaish", C_VAL)),
     kv("Website:", ("tejeshvaish.com", C_VAL)),
     kv("GitHub.Personal:", ("tejeshvaish", C_VAL)),
