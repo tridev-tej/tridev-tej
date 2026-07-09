@@ -106,6 +106,6 @@ svg = """<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBo
 </svg>
 """.format(w=width, h=height, rows="\n".join(rows))
 
-out = "/private/tmp/claude-501/-Users-tejesh/b6a59fc1-1fd7-4ec2-9fc7-9798d9e2e87a/scratchpad/ascii/profile.svg"
+out = "profile.svg"
 open(out, "w").write(svg)
 print("wrote", out, width, "x", height)
