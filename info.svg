@@ -1,27 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="522" height="444" viewBox="0 0 522 444" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12.2px">
-<rect width="522" height="444" rx="8" fill="#0d1117" stroke="#30363d"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="522" height="526" viewBox="0 0 522 526" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12.2px">
+<rect width="522" height="526" rx="8" fill="#0d1117" stroke="#30363d"/>
 <text x="22" y="36.5" xml:space="preserve"><tspan fill="#c9d1d9">tejesh@tridev-tej</tspan><tspan fill="#484f58"> ────────────────────────────────────────────────</tspan></text>
 <text x="22" y="53.0" xml:space="preserve"><tspan fill="#484f58">. </tspan><tspan fill="#ff7b72">OS:</tspan><tspan fill="#484f58"> .............................................. </tspan><tspan fill="#e3b341">macOS, Ubuntu</tspan></text>
 <text x="22" y="69.5" xml:space="preserve"><tspan fill="#484f58">. </tspan><tspan fill="#ff7b72">Host:</tspan><tspan fill="#484f58"> ................................................ </tspan><tspan fill="#e3b341">Lumian.ai</tspan></text>
 <text x="22" y="86.0" xml:space="preserve"><tspan fill="#484f58">. </tspan><tspan fill="#ff7b72">Kernel:</tspan><tspan fill="#484f58"> ..................................... </tspan><tspan fill="#e3b341">Senior AI Engineer</tspan></text>
-<text x="22" y="102.5" xml:space="preserve"><tspan fill="#484f58">. </tspan><tspan fill="#ff7b72">IDE:</tspan><tspan fill="#484f58"> ...................................... </tspan><tspan fill="#e3b341">VS Code, Claude Code</tspan></text>
+<text x="22" y="102.5" xml:space="preserve"><tspan fill="#484f58">. </tspan><tspan fill="#ff7b72">IDE:</tspan><tspan fill="#484f58"> .............................. </tspan><tspan fill="#e3b341">VS Code, Cursor, Claude Code</tspan></text>
 <text x="22" y="119.0" xml:space="preserve"></text>
 <text x="22" y="135.5" xml:space="preserve"><tspan fill="#c9d1d9">- Runtime</tspan><tspan fill="#484f58"> ────────────────────────────────────────────────────────</tspan></text>
 <text x="22" y="152.0" xml:space="preserve"><tspan fill="#484f58">. </tspan><tspan fill="#ff7b72">Languages.Programming:</tspan><tspan fill="#484f58"> ............ </tspan><tspan fill="#e3b341">Python, C++, TypeScript, SQL</tspan></text>
-<text x="22" y="168.5" xml:space="preserve"><tspan fill="#484f58">. </tspan><tspan fill="#ff7b72">Languages.Computer:</tspan><tspan fill="#484f58"> ............... </tspan><tspan fill="#e3b341">HTML, CSS, JSON, LaTeX, YAML</tspan></text>
-<text x="22" y="185.0" xml:space="preserve"><tspan fill="#484f58">. </tspan><tspan fill="#ff7b72">Languages.Real:</tspan><tspan fill="#484f58"> ................................. </tspan><tspan fill="#e3b341">English, Hindi</tspan></text>
-<text x="22" y="201.5" xml:space="preserve"><tspan fill="#484f58">. </tspan><tspan fill="#ff7b72">Education:</tspan><tspan fill="#484f58"> .............................. </tspan><tspan fill="#e3b341">IIT Kanpur, B.Tech CSE</tspan></text>
-<text x="22" y="218.0" xml:space="preserve"><tspan fill="#484f58">. </tspan><tspan fill="#ff7b72">History:</tspan><tspan fill="#484f58"> ................................ </tspan><tspan fill="#e3b341">Simbian, Abacus.AI, TI</tspan></text>
-<text x="22" y="234.5" xml:space="preserve"><tspan fill="#484f58">. </tspan><tspan fill="#ff7b72">Hobbies.Software:</tspan><tspan fill="#484f58"> ................. </tspan><tspan fill="#e3b341">AI Agents, Comp. Programming</tspan></text>
-<text x="22" y="251.0" xml:space="preserve"></text>
-<text x="22" y="267.5" xml:space="preserve"><tspan fill="#c9d1d9">- Contact</tspan><tspan fill="#484f58"> ────────────────────────────────────────────────────────</tspan></text>
-<text x="22" y="284.0" xml:space="preserve"><tspan fill="#484f58">. </tspan><tspan fill="#ff7b72">Email.Work:</tspan><tspan fill="#484f58"> ................................... </tspan><tspan fill="#e3b341">tejesh@lumian.ai</tspan></text>
-<text x="22" y="300.5" xml:space="preserve"><tspan fill="#484f58">. </tspan><tspan fill="#ff7b72">LinkedIn:</tspan><tspan fill="#484f58"> .......................................... </tspan><tspan fill="#e3b341">tejeshvaish</tspan></text>
-<text x="22" y="317.0" xml:space="preserve"><tspan fill="#484f58">. </tspan><tspan fill="#ff7b72">Website:</tspan><tspan fill="#484f58"> ....................................... </tspan><tspan fill="#e3b341">tejeshvaish.com</tspan></text>
-<text x="22" y="333.5" xml:space="preserve"><tspan fill="#484f58">. </tspan><tspan fill="#ff7b72">GitHub.Personal:</tspan><tspan fill="#484f58"> ................................... </tspan><tspan fill="#e3b341">tejeshvaish</tspan></text>
-<text x="22" y="350.0" xml:space="preserve"></text>
-<text x="22" y="366.5" xml:space="preserve"><tspan fill="#c9d1d9">- GitHub Stats</tspan><tspan fill="#484f58"> ───────────────────────────────────────────────────</tspan></text>
-<text x="22" y="383.0" xml:space="preserve"><tspan fill="#484f58">. </tspan><tspan fill="#ff7b72">Repos:</tspan><tspan fill="#484f58"> ........................... </tspan><tspan fill="#79c0ff">92</tspan><tspan fill="#e3b341"> {tridev-tej + tejeshvaish}</tspan></text>
-<text x="22" y="399.5" xml:space="preserve"><tspan fill="#484f58">. </tspan><tspan fill="#ff7b72">Stars:</tspan><tspan fill="#484f58"> ...................................... </tspan><tspan fill="#79c0ff">14</tspan><tspan fill="#e3b341"> | Followers: </tspan><tspan fill="#79c0ff">21</tspan></text>
-<text x="22" y="416.0" xml:space="preserve"><tspan fill="#484f58">. </tspan><tspan fill="#ff7b72">Committing since:</tspan><tspan fill="#484f58"> ..................................... </tspan><tspan fill="#3fb950">Sep 2019</tspan></text>
+<text x="22" y="168.5" xml:space="preserve"><tspan fill="#484f58">. </tspan><tspan fill="#ff7b72">Stack.Backend:</tspan><tspan fill="#484f58"> ................. </tspan><tspan fill="#e3b341">Django, FastAPI, Node.js, Redis</tspan></text>
+<text x="22" y="185.0" xml:space="preserve"><tspan fill="#484f58">. </tspan><tspan fill="#ff7b72">Stack.Frontend:</tspan><tspan fill="#484f58"> ..................... </tspan><tspan fill="#e3b341">React, Tailwind, Shadcn/UI</tspan></text>
+<text x="22" y="201.5" xml:space="preserve"><tspan fill="#484f58">. </tspan><tspan fill="#ff7b72">Stack.DevOps:</tspan><tspan fill="#484f58"> ........................ </tspan><tspan fill="#e3b341">Docker, K8s, AWS, Jenkins</tspan></text>
+<text x="22" y="218.0" xml:space="preserve"><tspan fill="#484f58">. </tspan><tspan fill="#ff7b72">Languages.Real:</tspan><tspan fill="#484f58"> ................................. </tspan><tspan fill="#e3b341">English, Hindi</tspan></text>
+<text x="22" y="234.5" xml:space="preserve"></text>
+<text x="22" y="251.0" xml:space="preserve"><tspan fill="#c9d1d9">- Career</tspan><tspan fill="#484f58"> ─────────────────────────────────────────────────────────</tspan></text>
+<text x="22" y="267.5" xml:space="preserve"><tspan fill="#484f58">. </tspan><tspan fill="#ff7b72">Education:</tspan><tspan fill="#484f58"> ....................... </tspan><tspan fill="#e3b341">IIT Kanpur, B.Tech CSE (9.14)</tspan></text>
+<text x="22" y="284.0" xml:space="preserve"><tspan fill="#484f58">. </tspan><tspan fill="#ff7b72">History:</tspan><tspan fill="#484f58"> ..................... </tspan><tspan fill="#e3b341">Simbian, Abacus.AI, TI, Securonix</tspan></text>
+<text x="22" y="300.5" xml:space="preserve"><tspan fill="#484f58">. </tspan><tspan fill="#ff7b72">CP.Ratings:</tspan><tspan fill="#484f58"> ..................... </tspan><tspan fill="#e3b341">LeetCode 1850+, CodeChef 1750+</tspan></text>
+<text x="22" y="317.0" xml:space="preserve"><tspan fill="#484f58">. </tspan><tspan fill="#ff7b72">Side.Project:</tspan><tspan fill="#484f58"> ........................... </tspan><tspan fill="#e3b341">Homeo-AI (1000+ users)</tspan></text>
+<text x="22" y="333.5" xml:space="preserve"></text>
+<text x="22" y="350.0" xml:space="preserve"><tspan fill="#c9d1d9">- Contact</tspan><tspan fill="#484f58"> ────────────────────────────────────────────────────────</tspan></text>
+<text x="22" y="366.5" xml:space="preserve"><tspan fill="#484f58">. </tspan><tspan fill="#ff7b72">Email.Work:</tspan><tspan fill="#484f58"> ................................... </tspan><tspan fill="#e3b341">tejesh@lumian.ai</tspan></text>
+<text x="22" y="383.0" xml:space="preserve"><tspan fill="#484f58">. </tspan><tspan fill="#ff7b72">LinkedIn:</tspan><tspan fill="#484f58"> .......................................... </tspan><tspan fill="#e3b341">tejeshvaish</tspan></text>
+<text x="22" y="399.5" xml:space="preserve"><tspan fill="#484f58">. </tspan><tspan fill="#ff7b72">Website:</tspan><tspan fill="#484f58"> ....................................... </tspan><tspan fill="#e3b341">tejeshvaish.com</tspan></text>
+<text x="22" y="416.0" xml:space="preserve"><tspan fill="#484f58">. </tspan><tspan fill="#ff7b72">GitHub.Personal:</tspan><tspan fill="#484f58"> ................................... </tspan><tspan fill="#e3b341">tejeshvaish</tspan></text>
+<text x="22" y="432.5" xml:space="preserve"></text>
+<text x="22" y="449.0" xml:space="preserve"><tspan fill="#c9d1d9">- GitHub Stats</tspan><tspan fill="#484f58"> ───────────────────────────────────────────────────</tspan></text>
+<text x="22" y="465.5" xml:space="preserve"><tspan fill="#484f58">. </tspan><tspan fill="#ff7b72">Repos:</tspan><tspan fill="#484f58"> ........................... </tspan><tspan fill="#79c0ff">92</tspan><tspan fill="#e3b341"> {tridev-tej + tejeshvaish}</tspan></text>
+<text x="22" y="482.0" xml:space="preserve"><tspan fill="#484f58">. </tspan><tspan fill="#ff7b72">Stars:</tspan><tspan fill="#484f58"> ...................................... </tspan><tspan fill="#79c0ff">14</tspan><tspan fill="#e3b341"> | Followers: </tspan><tspan fill="#79c0ff">21</tspan></text>
+<text x="22" y="498.5" xml:space="preserve"><tspan fill="#484f58">. </tspan><tspan fill="#ff7b72">Committing since:</tspan><tspan fill="#484f58"> ......................................... </tspan><tspan fill="#3fb950">2015</tspan></text>
 </svg>
